@@ -654,10 +654,10 @@ welcome
 --------------------------------------------- 
 */
 .welcome-area {
-  width: 100%;
+  /* width: 100%; */
   height: 100vh;
   min-height: 793px;
-  background-image: url(../images/banner-bg.jpeg);
+  background-image: url(../images/nur-bg\ \(2\).png);
   background-repeat: no-repeat;
   background-position: right top;
 }
